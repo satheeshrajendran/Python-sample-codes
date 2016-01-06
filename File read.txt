@@ -1,0 +1,6 @@
+# Open a file
+fo = open("C:\Users\s.c.kumar.rajendran\Desktop\Test.txt", "r+")
+str = fo.read(10);
+print "Read String is : ", str
+# Close opend file
+fo.close()

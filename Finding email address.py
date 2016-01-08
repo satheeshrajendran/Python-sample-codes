@@ -1,6 +1,6 @@
 import re 
-#line = "afsd dfasdf sfdfsdaof sadofjds ram@gamil.com, sdfsadf@gmail.com " \ 
- #      "ramaraj@123.com.,accenture@abc.co" 
+#line = "afsd dfasdf sfdfsdaof sadofjds satheesh@gamil.com, sdfsadf@gmail.com " \ 
+ #      "satg@fhdskfhdsfhkds.com.,accenture@abc.co" 
  
  
 line = "xyz intensive.learnings@cig.comna.com purple monkey" 

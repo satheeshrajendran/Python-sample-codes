@@ -1,6 +1,10 @@
 # Open a file
-fo = open("C:\Users\s.c.kumar.rajendran\Desktop\Test.txt", "wb")
-fo.write( "Python is not a great languagefdsfdsfsdfsfa.\nYeah its great!!\n");
-
-# Close opend file
+fo = open("C:/Users/s.c.kumar.rajendran/Desktop/test.txt", "r+")
+#str=fo.read(20);
+#print "str is:", str
+position=fo.tell();
+print "Position:", position
 fo.close()
+
+
+
